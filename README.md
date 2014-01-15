@@ -18,7 +18,7 @@ También cuenta con la posibilidad de visualizar el balance inicial, balance gen
   * [Ver catálogo de cuentas](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/catalogoDeCuentas.PNG)
   * [Agregando subcuenta al catálogo](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/agregarSubCuenta.PNG)
   * [Operaciones de diario sobre los sub conceptos](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/operacionDeDiario.PNG)
-  * Verificar operaciones de mayor](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/operacionesDeMayor.PNG)
+  * [Verificar operaciones de mayor](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/operacionesDeMayor.PNG)
   * [Calculando capital contable](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/calculandoCapitalContable.PNG)
   * [Creando balance inicial](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/balanceInicial.PNG)
   * [Creando estado de resultados](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/edoDeResuldatos.PNG)
