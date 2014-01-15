@@ -25,4 +25,4 @@ También cuenta con la posibilidad de visualizar el balance inicial, balance gen
   * [Creando balance general](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/balanceGeneral.PNG)
   * [Acerca de](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/acercaDe.PNG)
 
-**NOTA** Antes de ejecutar el juego ejecutar el script para crear la base de datos que usa el proyecto.
+**NOTA** Antes de ejecutar el programa ejecutar el script para crear la base de datos que usa el proyecto.
