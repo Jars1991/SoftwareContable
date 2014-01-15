@@ -26,3 +26,4 @@ También cuenta con la posibilidad de visualizar el balance inicial, balance gen
   * [Acerca de](https://raw.github.com/Jars1991/SoftwareContable/master/screenShots/acercaDe.PNG)
 
 **NOTA** Antes de ejecutar el programa ejecutar el script para crear la base de datos que usa el proyecto.
+**NOTA** En la carpeta jarFile se encuentre el archivo SoftwareContable.jar.xxx solo quite la extension .xxx para ejecutar el archivo.
